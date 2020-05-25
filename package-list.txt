@@ -35,8 +35,10 @@ nbconvert=5.6.1=pypi_0
 nbformat=5.0.6=pypi_0
 ncurses=6.2=he6710b0_1
 notebook=6.0.3=pypi_0
+numpy=1.18.4=pypi_0
 openssl=1.1.1g=h7b6447c_0
 packaging=20.4=pypi_0
+pandas=1.0.3=pypi_0
 pandocfilters=1.4.2=pypi_0
 parso=0.7.0=pypi_0
 pexpect=4.8.0=pypi_0
@@ -50,6 +52,7 @@ pyparsing=2.4.7=pypi_0
 pyrsistent=0.16.0=pypi_0
 python=3.8.3=hcff3b4d_0
 python-dateutil=2.8.1=pypi_0
+pytz=2020.1=pypi_0
 pyzmq=19.0.1=pypi_0
 qtconsole=4.7.4=pypi_0
 qtpy=1.9.0=pypi_0
