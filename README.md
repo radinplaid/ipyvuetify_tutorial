@@ -8,3 +8,4 @@ A series of ipyvuetify jupyter notebook tutorials for mere mortals
 * [Text Input (also numeric, date, time inputs)](./04-Text_Input.ipynb)
 * [Buttons](./05-Buttons.ipynb)
 * [Application Layout Elements (menubars, dialogs, progress bars etc.)](./06-Application_Layout_Elements.ipynb)
+* [Text Styling and Colours](./07-Text_Styles_And_Colours.ipynb)
